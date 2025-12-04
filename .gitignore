@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Spark output
+output/
+*.parquet
+
+# macOS system file
+.DS_Store
+
+# Virtual env
+venv/
+
