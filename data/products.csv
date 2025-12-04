@@ -1,0 +1,1001 @@
+product_id,name,category,price
+1,Matthaeus,Food - Snacks,3.49
+2,Cthrine,Clothing - Footwear,99.99
+3,Dot,Electronics,19.99
+4,Violetta,Outdoor,59.99
+5,Ronnica,Food - Frozen Foods,4.99
+6,Zaneta,Food - Condiments,3.49
+7,Erma,Clothing - Outerwear,99.99
+8,Lexie,Food - Snacks,2.99
+9,Rurik,Clothing - Footwear,99.99
+10,Odella,Fitness,39.99
+11,Cristin,Food - Bakery,4.79
+12,Douglass,Outdoor,24.99
+13,Odie,Food - Salads,4.99
+14,Rafaellle,Clothing - Accessories,29.99
+15,Petronia,Kitchen,10.99
+16,Parke,Clothing - Shirts,45.99
+17,Corine,Food - Breakfast,2.49
+18,Aluin,Food - Desserts,6.29
+19,Danyette,Toys,19.99
+20,Gwenora,Food - Prepared Foods,8.49
+21,Howey,Food - Snacks,2.29
+22,Berkie,Food - Bakery,6.49
+23,Jolynn,Food - Dairy Alternatives,1.99
+24,Ermengarde,Food - Baking,4.99
+25,Kris,Kitchen,39.99
+26,Bartholomeo,Kitchen,34.99
+27,Stinky,Footwear,89.99
+28,Basile,Food - Condiments,3.99
+29,Ashly,Food - Oils,8.49
+30,Kellia,Home,109.99
+31,Augustine,Food - Condiments,2.99
+32,Elsinore,Food - Condiments,3.49
+33,Ganny,Toys,29.99
+34,Justino,Food - Dried Fruits,3.19
+35,Carolann,Office,8.99
+36,Alexander,Clothing - Activewear,29.99
+37,Zorah,Home,39.99
+38,Noak,Food - Snacks,3.49
+39,Dorian,Electronics,19.99
+40,Lucinda,Accessories,29.99
+41,Lita,Home,12.99
+42,Aubert,Food - Frozen Desserts,5.99
+43,Barty,Accessories,49.99
+44,Cyrillus,Accessories,34.99
+45,Teodorico,Smart Home,19.99
+46,Helen-elizabeth,Outdoor,27.99
+47,Goraud,Home,45.99
+48,Ann-marie,Fitness,15.99
+49,Salaidh,Food - Baking,2.99
+50,Marylou,Food - Nuts,2.99
+51,Oran,Food - Meat,5.49
+52,Sigismondo,Food - Breakfast,2.49
+53,Wheeler,Clothing - Jumpsuits,54.99
+54,Jobyna,Kitchen,19.99
+55,Karalee,Food - Snacks,4.49
+56,Moises,Food - Desserts,4.49
+57,Rogers,Clothing - Outerwear,49.99
+58,Lanae,Food - Breakfast,4.99
+59,Lori,Clothing - Shirts,45.99
+60,Wit,Smart Home,79.99
+61,Malinda,Food - Snacks,5.99
+62,Margeaux,Fitness,39.99
+63,Brendon,Beauty,34.99
+64,Kaspar,Kitchen,14.99
+65,Claude,Food - Condiments,3.99
+66,Bettye,Clothing - Activewear,29.99
+67,Erhart,Food - Dairy,1.99
+68,Elbertine,Kitchen,24.99
+69,Roxi,Food - Snacks,3.99
+70,Raynell,Toys,29.99
+71,Nelli,Fitness,59.99
+72,Genevra,Food - Baking & Cooking,4.99
+73,Barb,Fitness,14.99
+74,Hillyer,Food - Frozen Desserts,6.99
+75,Philippine,Food - Salads,4.49
+76,Nessi,Food - Condiments,3.99
+77,Creight,Accessories,19.99
+78,Trudey,Food - Breakfast,4.99
+79,Robby,Pets,79.99
+80,Shawn,Food - Salads,6.49
+81,Nanice,Photography,29.99
+82,Davey,Food - Condiments,3.99
+83,Sam,Outdoor,9.99
+84,Loria,Food - Meat & Seafood,4.99
+85,Eva,Garden,22.99
+86,Wain,Kitchen,22.99
+87,Antonina,Food - Breakfast,2.49
+88,Heinrick,Food - Snacks,3.29
+89,Damaris,Home,15.99
+90,Daniella,Food - Baked Goods,4.99
+91,Giff,Food - Breakfast Foods,3.99
+92,Drud,Kitchen,99.99
+93,Harrie,Food - Bakery,4.19
+94,Florian,Food - Meat,10.99
+95,Hakeem,Home,19.99
+96,Micah,Food - Frozen Meals,5.99
+97,Tildi,Food - Prepared Meals,7.49
+98,Hollie,Accessories,12.99
+99,Delila,Food - Snacks,2.49
+100,Helene,Food - Prepared Meals,8.99
+101,Parnell,Food - Frozen Foods,3.29
+102,Ulrikaumeko,Electronics,49.99
+103,Dannye,Health,49.99
+104,Peg,Food - Bakery,3.49
+105,Chloette,Food - Snacks,2.99
+106,Erich,Kitchen,14.99
+107,Caresse,Food - Frozen Desserts,4.99
+108,Elsey,Toys,14.99
+109,Fleming,Food - Sauces,3.29
+110,Sunny,Food - Condiments,4.49
+111,Dorella,Food - Condiments,3.69
+112,Fan,Food - Breakfast,5.49
+113,Sidoney,Sports,29.99
+114,Angel,Home,19.99
+115,Alanna,Food - Baked Goods,3.49
+116,Isacco,Food - Grains,2.49
+117,Thacher,Food - Frozen Meals,7.49
+118,Benedikt,Outdoor,349.99
+119,Adrienne,Home,34.99
+120,Rayna,Food - Canned Goods,2.29
+121,Irena,Clothing,19.99
+122,Fowler,Accessories,19.99
+123,Tris,Food - Snacks,3.99
+124,Brandise,Food - Spices,2.99
+125,Emalia,Footwear,89.99
+126,Vaughn,Food - Breakfast,2.49
+127,Carlotta,Food - Frozen Food,8.99
+128,Gretel,Food - Fruits,2.29
+129,Kass,Pets,12.99
+130,North,Food - Meat,5.49
+131,Cahra,Clothing - Shoes,99.99
+132,Antone,Home Improvement,199.99
+133,Claudia,Food - Soups,3.99
+134,Remington,Food - Produce,2.99
+135,Gregoor,Fitness,29.99
+136,Wernher,Food - Freezer,7.99
+137,Olav,Food - Bakery,2.49
+138,Sheila,Outdoor,27.99
+139,Elliott,Food - Condiments,3.99
+140,Torrence,Audio,119.99
+141,Imogene,Food - Canned Soups,2.99
+142,Bale,Food - Cereal,4.49
+143,Evangeline,Outdoor,39.99
+144,Valeria,Garden,14.99
+145,Bat,Food - Snacks,4.59
+146,Giff,Food - Breakfast,4.99
+147,Philip,Food - Snacks,1.39
+148,Judi,Food - Canned Goods,2.49
+149,Clemmy,Books,12.99
+150,Thomasa,Electronics,45.99
+151,Davy,Audio,79.99
+152,Phillis,Food - Nuts,7.99
+153,Ashby,Outdoor,24.99
+154,Shalom,Food - Pasta,3.49
+155,Melodee,Food - Frozen,5.99
+156,Ellissa,Kitchen,22.99
+157,Cordy,Food - Spices & Seasonings,2.99
+158,Des,Food - Baking & Cooking,2.99
+159,Marylou,Food - Snacks,2.99
+160,Ricardo,Furniture,149.99
+161,Abba,Outdoor,149.99
+162,Kiley,Toys,29.99
+163,Maxie,Travel,22.99
+164,Franciska,Food - Snacks,4.19
+165,Frances,Food - Spices,4.99
+166,Daisie,Food - Snacks,2.99
+167,Eldredge,Food - Fresh Produce,3.99
+168,Pansy,Garden,22.99
+169,Germaine,Food - Breakfast,4.99
+170,Brigitte,Electronics,24.99
+171,Alexine,Food - Condiments,3.49
+172,Kathleen,Office,19.99
+173,Ingrid,Food - Produce,0.99
+174,Jayme,Outdoor,34.99
+175,Opaline,Food - Soups,3.29
+176,Durante,Food - Condiments,1.99
+177,Thacher,Food - Salads,7.49
+178,Cyrille,Food - Frozen Foods,7.99
+179,Selig,Books,14.99
+180,Cecelia,Food - Frozen Foods,8.99
+181,Rosita,Food - Frozen,7.49
+182,Gwyn,Kitchen,18.99
+183,Edgar,Outdoor,22.99
+184,Cash,Kitchen,15.99
+185,Ainslee,Food - Canned Goods,2.29
+186,Bartie,Food - Fresh Produce,2.99
+187,Jarrett,Outdoor,49.99
+188,Damita,Food - Grains,2.49
+189,Averyl,Food - Dairy,3.49
+190,Rich,Food - Frozen Foods,6.29
+191,Perry,Home,39.99
+192,Rossy,Outdoor,29.99
+193,Paxon,Food - Dairy,2.99
+194,Clari,Pets,14.99
+195,Johan,Food - Condiments,3.49
+196,Cicely,Food - Condiments,2.59
+197,Decca,Accessories,12.99
+198,Elbert,Food - Snacks,2.29
+199,Timofei,Bicycles,34.99
+200,Brandyn,Food - Condiments,3.49
+201,Jud,Food - Beverages,14.99
+202,Aryn,Fitness,24.99
+203,Benita,Food - Condiments,2.99
+204,Rad,Fitness,15.99
+205,Marielle,Toys,29.99
+206,Noah,Pets,19.99
+207,Phaedra,Food - Bakery,3.29
+208,Noni,Home,19.99
+209,Marwin,Food - Meat,5.99
+210,Victoria,Automotive,12.99
+211,Ervin,Garden,15.99
+212,Denys,Office,19.99
+213,Miltie,Clothing - Skirts,39.99
+214,Janis,Computers,99.99
+215,Hasty,Toys,24.99
+216,Candida,Fitness,34.99
+217,Leonanie,Home,19.99
+218,Salomon,Kitchen,49.99
+219,Mignonne,Fitness,39.99
+220,Deeyn,Food - Condiments,3.39
+221,Phillis,Food - Frozen,1.99
+222,Miner,Toys,19.99
+223,Robin,Clothing - Outerwear,69.99
+224,Conni,Food - Frozen Vegetables,5.49
+225,Pippy,Smart Home,119.99
+226,Yves,Home,129.99
+227,Dex,Outdoor,49.99
+228,Hagen,Food - Beverages,3.79
+229,Meta,Food - Canned Goods,2.99
+230,Morten,Fitness,39.99
+231,Cindi,Kitchen,10.99
+232,Odetta,Food - Beverages,3.29
+233,Elly,Food - Grocery,3.99
+234,Duke,Kitchen,19.99
+235,Brynna,Office,8.99
+236,Kliment,Food - Prepared Meals,5.49
+237,Oates,Food - Snacks,2.99
+238,Dotty,Food - Meat,9.99
+239,Christina,Crafts,34.99
+240,Cris,Garden,59.99
+241,Douglas,Clothing - Bottoms,29.99
+242,Yanaton,Smart Home,19.99
+243,Chip,Food - Salads,3.29
+244,Rikki,Outdoor,59.99
+245,Ximenes,Accessories,19.99
+246,Donny,Food - Baking,6.49
+247,Valentia,Clothing - Outerwear,129.99
+248,Fredric,Health,19.99
+249,Francene,Food - Snacks,3.99
+250,Charis,Food - Frozen Foods,6.49
+251,Catharine,Pets,16.99
+252,Carny,Food - Sides,1.79
+253,Clemmie,Sports,79.99
+254,Ashely,Home,109.99
+255,Davidson,Food - Baking Goods,3.99
+256,Yorker,Food - Bakery,3.49
+257,Johna,Kitchen,24.99
+258,Tobe,Home Appliances,299.99
+259,Odelia,Food - Snacks,4.99
+260,Karylin,Clothing - Bottoms,35.99
+261,Alaric,Food - Snacks,4.49
+262,Solly,Pets,39.99
+263,Lewiss,Food - Snacks,3.99
+264,Kandy,Food - Frozen Desserts,6.99
+265,Dorthy,Food - Sides,3.49
+266,Aigneis,Home,19.99
+267,Valaree,Outdoor,29.99
+268,Derrek,Pets,39.99
+269,Morgun,Outdoor,39.99
+270,Giles,Food - Condiments,1.99
+271,Lisabeth,Pets,15.99
+272,Donnie,Kitchen,89
+273,Eileen,Automotive,14.99
+274,Solomon,Food - Bakery,4.49
+275,Niel,Food - Frozen Foods,4.49
+276,Marijo,Toys,24.99
+277,Nadiya,Food - Condiments,3.29
+278,Isaiah,Outdoor,19.99
+279,Bobbye,Clothing,44.99
+280,Halsey,Outdoor,79.99
+281,Carlynne,Food - Frozen Desserts,5.99
+282,Lewie,Outdoor,29.99
+283,Chauncey,Photography,199.99
+284,Borden,Outdoor,49.99
+285,Rosie,Food - Condiments,6.99
+286,Elonore,Kitchen,39.99
+287,Darius,Food - Breakfast,4.99
+288,Duane,Health,19.99
+289,Dionis,Kitchen,14.99
+290,Ermengarde,Pets,15.99
+291,Hillary,Outdoor,49.99
+292,Davis,Food - Snacks,3.99
+293,Genia,Photography,14.99
+294,Arlin,Home,22.99
+295,Cassy,Food - Snacks,2.49
+296,Ralina,Food - Beverages,4.49
+297,Bobina,Food - Frozen Desserts,6.99
+298,Conrade,Food - Frozen Desserts,4.99
+299,Marje,Food - Grains,2.49
+300,Ilse,Home,29.99
+301,Matilda,Garden,9.99
+302,Patton,Photography,89.99
+303,Sheba,Fitness,49.99
+304,Jaime,Audio,129.99
+305,Amalia,Clothing - Skirts,39.99
+306,Itch,Food - Frozen Meals,5.49
+307,Joannes,Food - Snacks,5.99
+308,Peggie,Food - Grains,3.79
+309,Alexandra,Outdoor,399.99
+310,Meade,Food - Snacks,4.49
+311,Wenonah,Kitchen,24.99
+312,Marv,Automotive,39.99
+313,Leola,Safety,12.99
+314,Carol-jean,Food - Meat,9.99
+315,Thibaud,Food - Dried Fruits,3.79
+316,Maxwell,Audio,69.99
+317,Beniamino,Food - Grocery,4.99
+318,Briano,Clothing - Bottoms,49.99
+319,Brandtr,Food - Soups,2.99
+320,Ximenez,Food - Produce,6.99
+321,Sabine,Bicycles,29.99
+322,Dicky,Food - Bakery,3.99
+323,Nettle,Food - Beverages,15.99
+324,Cherlyn,Food - Pasta,0.99
+325,Pat,Food - Grains,1.49
+326,Crosby,Home Improvement,199.99
+327,Bendicty,Food - Grains,2.99
+328,Ado,Food - Fruits,4.99
+329,Essa,Home,29.99
+330,Darell,Pets,9.99
+331,Thomasina,Food - Frozen Foods,3.69
+332,Darb,Food - Snacks,1.99
+333,Florida,Kitchen,24.99
+334,Win,Food - Condiments,4.09
+335,Lissi,Food - Grains,2.29
+336,Saunders,Food - Sauces,3.89
+337,Simon,Food - Frozen Foods,4.49
+338,Johnna,Food - Bakery,3.99
+339,Halley,Accessories,24.99
+340,Aguie,Food - Baking,3.29
+341,Dionne,Clothing - Tops,25.99
+342,Lonee,Beauty,22.99
+343,Thorsten,Outdoor,14.99
+344,Geraldine,Kitchen,12.99
+345,Brock,Food - Frozen,8.99
+346,Merrill,Food - Baking,4.49
+347,Engelbert,Food - Snacks,3.49
+348,Johny,Food - Dressings,3.49
+349,Butch,Kitchen,44.99
+350,Ewell,Food - Snacks,5.29
+351,Demetris,Food - Nuts,2.99
+352,Bert,Food - Canned Goods,1.29
+353,Miquela,Home,29.99
+354,Daren,Food - Grains,2.99
+355,Koralle,Food - Snacks,2.29
+356,Noell,Food - Oils,8.99
+357,Becki,Home,19.99
+358,Haleigh,Garden,22.99
+359,Danika,Clothing,49.99
+360,Ferguson,Food - Prepared Foods,4.99
+361,Barny,Food - Snacks,2.89
+362,Darda,Food - Snacks,2.99
+363,Hattie,Food - Breakfast,3.99
+364,Napoleon,Food - Pasta,4.19
+365,Lyn,Food - Snacks,3.49
+366,Joye,Food - Snacks,1.99
+367,Kalina,Office,29.99
+368,Othelia,Kitchen,29.99
+369,Gayle,Food - Grains,5.79
+370,Tamqrah,Outdoor,39.99
+371,Herminia,Health,19.99
+372,Danielle,Kitchen,29.99
+373,Bernhard,Kitchen,10.99
+374,Jobi,Food - Desserts,4.49
+375,Jessey,Travel,9.99
+376,Gary,Outdoor,69.99
+377,Zsazsa,Electronics,39.99
+378,Miranda,Food - Produce,4.49
+379,Cynthea,Food - Prepared Meals,7.49
+380,Shirleen,Health,39.99
+381,Winna,Food - Produce,1.49
+382,Bald,Accessories,12.99
+383,Damian,Food - Snacks,2.79
+384,Sergio,Home,14.99
+385,Salomone,Food - Condiments,3.99
+386,Fraze,Food - Canned Goods,1.99
+387,Mildrid,Food - Breakfast,4.49
+388,Ad,Fitness,39.99
+389,Octavius,Fitness,24.99
+390,Harman,Outdoor,39.99
+391,Rosella,Food - Cereal,4.49
+392,Keslie,Outdoor,39.99
+393,Mara,Food - Dressing,3.39
+394,Kenna,Toys,22.99
+395,Rochell,Smart Home,149.99
+396,Karola,Art Supplies,99.99
+397,Clovis,Fitness,25.99
+398,Murry,Food - Grains,4.29
+399,Claiborne,Accessories,10.99
+400,Tuckie,Clothing,89.99
+401,Lilian,Food - Canned Goods,2.99
+402,Pembroke,Food - Prepared Foods,4.99
+403,Joaquin,Accessories,24.99
+404,Quincey,Food - Soups,4.29
+405,Steward,Safety,10.99
+406,Jessa,Kitchen,34.99
+407,Hildy,Food - Household,8.99
+408,Leroi,Kitchen,29.99
+409,Peirce,Clothing - Pants,49.99
+410,Zelig,Food - Frozen Vegetables,4.99
+411,Gilberte,Food - Beverages,4.49
+412,Bryana,Food - Prepared Meals,8.99
+413,Katharina,Home,12.99
+414,Lucia,Kitchen,149.99
+415,Dasha,Food - Snacks,4.99
+416,Pennie,Food - Snacks,2.5
+417,Stuart,Outdoor,19.99
+418,Royce,Clothing - Bottoms,54.99
+419,Welsh,Home,49.99
+420,Zorina,Electronics,24.99
+421,Yolande,Clothing - Tops,34.99
+422,Daryl,Health,59.99
+423,Logan,Food - Dried Fruits,3.79
+424,Tabor,Home,12.99
+425,Aleece,Health,59.99
+426,Crosby,Accessories,24.99
+427,Kessia,Toys,29.99
+428,Angie,Food - Snacks,2.99
+429,Beau,Accessories,14.99
+430,Farly,Pets,79.99
+431,Trumann,Outdoor,29.99
+432,Myriam,Food - Beverages,5.29
+433,Anatole,Food - Snacks,2.99
+434,Alvin,Travel,15.99
+435,Griffin,Garden,24.99
+436,Iona,Food - Frozen,8.99
+437,Vin,Food - Canned Goods,3.49
+438,Carny,Food - Frozen Food,8.99
+439,Tamma,Outdoor,29.99
+440,Sianna,Food - Produce,3.99
+441,Georas,Food - Prepared Meals,8.99
+442,Joelly,Food - Condiments,2.29
+443,Mord,Fitness,89.99
+444,Normie,Beauty,12.99
+445,Therese,Food - Canned Goods,3.29
+446,Ingeborg,Food - Dairy,1.89
+447,Ichabod,Wearable Tech,199.99
+448,Lyn,Home,24.99
+449,Waverly,Food - Baking,6.89
+450,Ainslie,Food - Condiments,3.99
+451,Flossy,Food - Canned Goods,2.49
+452,Briana,Fitness,22.99
+453,Rollin,Food - Baking,3.29
+454,Carlyn,Food - Frozen Foods,5.99
+455,Astrix,Food - Meat,6.99
+456,Franni,Food - Breakfast,2.89
+457,Alfonse,Food - Snacks,4.59
+458,Elliot,Food - Snacks,3.19
+459,Tilda,Food - Condiments,3.49
+460,Rozanne,Food - Dairy Alternatives,1.99
+461,Dacia,Home,39.99
+462,Noak,Food - Condiments,7.99
+463,Karolina,Bathroom,39.99
+464,Sullivan,Food - Canned Soups,7.99
+465,Porter,Food - Beverages,1.49
+466,Daisie,Food - Frozen Foods,7.99
+467,Freeman,Food - Fruits,4.99
+468,Lennard,Audio,29.99
+469,Marian,Kitchen,19.99
+470,Nickie,Outdoor,27.99
+471,Isabelle,Food - Bakery,9.49
+472,Jannelle,Food - Beverages,3.99
+473,Maryl,Food - Vegetables,3.99
+474,Damien,Footwear,89.99
+475,Maxie,Books,14.99
+476,Stephi,Home,12.99
+477,Waverly,Fitness,89.99
+478,Ethelred,Food - Baking,2.49
+479,Forbes,Home,24.99
+480,Rutter,Health,19.99
+481,Rozina,Food - Salads,5.49
+482,Jenilee,Kitchen,10.99
+483,Hallie,Food - Dairy,3.29
+484,Arel,Fitness,12.99
+485,Vasili,Automotive,12.99
+486,Ty,Fitness,24.99
+487,Vivia,Kitchen,12.99
+488,Latrina,Fitness,49.99
+489,Weidar,Beauty,39.99
+490,Sal,Audio,79.99
+491,Westleigh,Food - Snacks,4.29
+492,Kathryn,Food - Snacks,2.49
+493,Deane,Food - Baking,3.79
+494,Loy,Food - Grains,2.49
+495,Melany,Food - Spices & Seasonings,2.99
+496,Sterling,Clothing - Loungewear,59.99
+497,Sherline,Food - Breakfast,5.99
+498,Zacherie,Automotive,14.99
+499,Janetta,Food - Vegetable,1.99
+500,Margaux,Fitness,15.99
+501,Enrica,Food - Condiments,4.79
+502,Bram,Health,14.99
+503,Clayborne,Food - Prepared Meals,7.99
+504,Dinah,Food - Bakery,4.49
+505,Helen,Food - Baking,5.49
+506,Rutter,Food - Beverages,4.49
+507,Othello,Sports,29.99
+508,Horst,Food - Snacks,5.99
+509,Sarina,Sports,29.99
+510,Alla,Food - Snacks,2.99
+511,Viole,Toys,10.99
+512,Bartel,Pets,14.99
+513,Chrystel,Pets,16.99
+514,Gladys,Food - Seafood,8.99
+515,Tamiko,Accessories,19.99
+516,Lexine,Clothing - Shirts,39.99
+517,George,Food - Bakery,2.49
+518,Rebbecca,Food - Prepared Meals,1.29
+519,Alexi,Food - Bakery,4.99
+520,Theresina,Home,15.99
+521,Leodora,Outdoor,109.99
+522,Heath,Home,59.99
+523,Giovanna,Pets,18.99
+524,Kenn,Photography,199.99
+525,Korry,Food - Prepared Meals,1.29
+526,Hyacinthie,Food - Snacks,4.99
+527,Lief,Food - Pasta,4.99
+528,Colline,Books,29.99
+529,Carmine,Food - Pasta,1.79
+530,Aili,Food - Condiments,3.19
+531,Anna,Food - Bakery,2.69
+532,Benedikt,Smart Home,34.99
+533,Howey,Food - Produce,0.89
+534,Linn,Kitchen,39.99
+535,Douglas,Clothing - Activewear,39.99
+536,Peggy,Clothing - Shirts,49.99
+537,Ev,Food - Bakery,4.19
+538,Wilden,Food - Snacks,3.49
+539,Aurlie,Fitness,49.99
+540,Shirleen,Home,29.99
+541,Siegfried,Food - Frozen Foods,5.99
+542,El,Home,16.99
+543,Georgine,Food - Frozen Foods,8.99
+544,Taylor,Food - Prepared Foods,5.99
+545,Margalit,Food - Produce,0.89
+546,Anton,Gaming,69.99
+547,Alvie,Food - Produce,2.99
+548,Barton,Food - Grains,3.99
+549,Lonni,Food - Cereals,3.79
+550,Shandy,Toys,59.99
+551,Stacy,Food - Salads,5.29
+552,Prescott,Kitchen,39.99
+553,Jerrie,Food - Sides,2.99
+554,Stafani,Food - Frozen Desserts,4.99
+555,Malory,Food - Frozen Desserts,4.99
+556,Breanne,Accessories,24.99
+557,Nana,Food - Condiments,3.39
+558,Hamish,Food - Snacks,3.99
+559,Cristal,Pets,24.99
+560,Dorena,Clothing - Outerwear,129.99
+561,Anica,Fitness,44.99
+562,Richy,Food - Snacks,2.99
+563,Boy,Garden,49.99
+564,Clarabelle,Food - Bakery,3.99
+565,Luther,Food - Cereals,3.79
+566,Pierette,Clothing - Shirts,44.99
+567,Muffin,Food - Canned Goods,1.49
+568,Katey,Food - Fruits,4.99
+569,Cathryn,Fitness,15.99
+570,Reinald,Food - Soups,2.99
+571,Boony,Travel,9.99
+572,Lek,Pets,12.99
+573,Raquela,Tools,39.99
+574,Viola,Fitness,29.99
+575,Myles,Food - Baking,1.99
+576,Danice,Food - Snacks,2.99
+577,Burgess,Pets,10.99
+578,Ashlan,Outdoor,29.99
+579,Blinnie,Food - Sauces,3.49
+580,Gian,Food - Snacks,3.19
+581,Quinlan,Beauty,22.99
+582,Brittany,Kitchen,34.99
+583,Tanhya,Food - Spreads,4.29
+584,Corrine,Food - Meat,7.99
+585,Cherise,Food - Snacks,2.99
+586,Bord,Office,29.99
+587,Editha,Food - Pasta,4.19
+588,Orel,Food - Beverages,5.99
+589,Janaya,Food - Grains,2.49
+590,Lexine,Food - Condiments,1.99
+591,Obed,Food - Frozen Vegetables,4.99
+592,Elise,Office,5.99
+593,Aubert,Food - Breakfast,3.99
+594,Brigg,Kitchen,19.99
+595,Timothee,Food - Condiments,3.99
+596,Jonathon,Food - Confectionery,4.99
+597,Cheston,Food - Frozen Foods,6.49
+598,Jilleen,Clothing,29.99
+599,Frederico,Food - Spices,1.99
+600,Ardra,Food - Produce,2.99
+601,Antone,Food - Grains,3.59
+602,Cathrin,Fitness,39.99
+603,Eleanore,Fitness,12.99
+604,Huntington,Computers,99.99
+605,Carmina,Gaming,299.99
+606,Brett,Home,29.99
+607,Marshal,Outdoor,79.99
+608,Michele,Food - Grains,3.29
+609,Winthrop,Health,79.99
+610,Aharon,Food - Bakery,3.99
+611,Terrye,Food - Sauces,3.99
+612,Belicia,Beauty,39.99
+613,Netty,Food - Frozen Foods,4.29
+614,Steve,Travel,22.99
+615,Jaine,Pets,109.99
+616,Ozzy,Garden,32.99
+617,Brianne,Food - Beverages,3.99
+618,Ladonna,Food - Dairy,2.99
+619,Tera,Food - Meat,9.99
+620,Germaine,Crafts,34.99
+621,Rayshell,Health,39.99
+622,Zelig,Kitchen,49.99
+623,Rustie,Food - Meat,8.99
+624,Chrystel,Food - Canned Goods,1.99
+625,Devondra,Food - Desserts,4.99
+626,Ally,Food - Desserts,6.29
+627,Kiele,Kitchen,29.99
+628,Tammy,Food - Dairy Alternatives,1.99
+629,Stepha,Food - Snacks,4.49
+630,Dunstan,Accessories,9.99
+631,Christiano,Clothing - Tops,22.99
+632,Twyla,Food - Snacks,4.19
+633,Lilla,Food - Condiments,2.49
+634,Halley,Food - Baking Goods,1.89
+635,Corri,Kitchen,49.99
+636,Hilarius,Kitchen,39.99
+637,Shirleen,Health,79.99
+638,Meta,Outdoor,24.99
+639,Broddy,Food - Condiments,2.99
+640,Shoshanna,Kitchen,24.99
+641,Patrica,Food - Beverages,2.49
+642,Joelly,Food - Canned Goods,2.49
+643,Amery,Food - Bakery,3.99
+644,Angel,Food - Prepared Foods,5.49
+645,Corri,Food - Grains,2.49
+646,Warde,Food - Condiments,4.29
+647,Etta,Toys,29.99
+648,Flint,Food - Fruits,4.99
+649,Aldus,Clothing - Bottoms,59.99
+650,Jenni,Food - Baking Goods,4.19
+651,Koren,Health,34.99
+652,Dewie,Food - Soups,2.99
+653,Nikos,Toys,34.99
+654,Kennie,Kitchen,89.99
+655,Violet,Home,24.99
+656,Obadiah,Audio,59.99
+657,Carline,Outdoor,349.99
+658,Myca,Food - Dairy,2.49
+659,Kale,Food - Beverages,3.49
+660,Hy,Kitchen,199.99
+661,Aurthur,Food - Beverages,3.69
+662,Avis,Home,34.99
+663,Cammie,Food - Dairy,4.49
+664,Luther,Clothing - Dresses,59.99
+665,Anetta,Automotive,24.99
+666,Vannie,Toys,22.99
+667,Blayne,Kitchen,29.99
+668,Madge,Accessories,19.99
+669,Alaric,Food - Frozen Foods,5.99
+670,Hayward,Food - Sauces,4.79
+671,Eugenie,Kitchen,18.99
+672,Cora,Food - Baking Goods,1.79
+673,Eamon,Automotive,59.99
+674,Stafford,Footwear,79.99
+675,Decca,Food - Beverages,3.79
+676,Perry,Photography,29.99
+677,Zora,Food - Snacks,3.29
+678,Muffin,Garden,39.99
+679,Sadella,Food - Meal Kits,7.49
+680,Torey,Food - Canned Goods,2.49
+681,Cassi,Accessories,24.99
+682,Kim,Food - Canned Goods,2.29
+683,Liesa,Outdoor,49.99
+684,Rex,Photography,249.99
+685,Gino,Food - Condiments,4.49
+686,Jemie,Food - Pasta,3.99
+687,Cami,Food - Fresh Produce,0.75
+688,Twila,Health,14.99
+689,Carlin,Food - Meat,5.49
+690,Lawrence,Clothing - Tops,34.99
+691,Ardine,Travel,14.99
+692,Bil,Books,29.99
+693,Roger,Clothing - Accessories,19.99
+694,Ezri,Food - Fresh Produce,0.75
+695,Darius,Food - Condiments,4.99
+696,Glori,Fitness,29.99
+697,Miguela,Food - Prepared Foods,4.29
+698,Janina,Food - Baking,5.49
+699,Abeu,Kitchen,22.99
+700,Hanan,Clothing - Swimwear,29.99
+701,Gianni,Food - Dairy Alternatives,1.99
+702,Helene,Food - Dairy Alternatives,3.89
+703,Beth,Outdoor,399.99
+704,Corabel,Food - Baked Goods,5.49
+705,Lawry,Food - Snacks,3.99
+706,Steffen,Food - Canned Goods,2.49
+707,Pammi,Office,29.99
+708,Jelene,Food - Frozen Food,5.99
+709,Nickey,Food - Meats,5.49
+710,Vale,Kitchen,24.99
+711,Kennith,Food - Seafood,6.49
+712,Jeanna,Food - Breakfast,4.49
+713,Elwood,Food - Dairy Alternatives,1.99
+714,Nerty,Food - Marinades,3.29
+715,Randal,Kitchen,22
+716,Aldrich,Music,199.99
+717,Howard,Food - Sauces,4.99
+718,Pip,Food - Condiments,4.29
+719,Latrena,Toys,24.99
+720,Yorgos,Food - Dried Fruits,3.79
+721,Katlin,Fitness,34.99
+722,Tadd,Books,14.99
+723,Danell,Sports,29.99
+724,Lock,Food - Dips,3.49
+725,Nessy,Food - Vegetables,4.49
+726,Edi,Fitness,99.99
+727,Renie,Home,19.99
+728,Iormina,Outdoor,49.99
+729,Hamlen,Food - Canned Goods,2.29
+730,Eloisa,Home,14.99
+731,Cyndie,Fitness,99.99
+732,Jacob,Food - Dairy Alternatives,2.99
+733,Ive,Kitchen,18.99
+734,Sylvan,Food - Freezer,6.29
+735,Collie,Food - Condiments,2.49
+736,Loleta,Clothing,24.99
+737,Mirilla,Food - Bakery,2.69
+738,Ethyl,Outdoor,69.99
+739,Charlean,Food - Cereals,3.79
+740,Pepe,Clothing - Footwear,29.99
+741,Mimi,Health,29.99
+742,Gabriellia,Food - Meat & Poultry,5.99
+743,Franny,Food - Grains,4.49
+744,Gabi,Home Appliances,299.99
+745,Carma,Food - Health/Protein,24.99
+746,Yolanthe,Food - Condiments,4.29
+747,Pamela,Home,19.99
+748,Karine,Pets,14.99
+749,Thomasine,Food - Pasta,3.79
+750,Dalila,Food - Snacks,3.5
+751,Berty,Food - Frozen Foods,6.29
+752,Justin,Food - Snacks,3.99
+753,Leroi,Kitchen,179.99
+754,Boniface,Pets,109.99
+755,Nydia,Office,99.99
+756,Iggie,Clothing - Bottoms,29.99
+757,Vere,Office,29.99
+758,Eadith,Toys,34.99
+759,Bryn,Food - Frozen Foods,4.99
+760,Linc,Garden,49.99
+761,Sergent,Electronics,49.99
+762,Barbaraanne,Beauty,99.99
+763,Kalvin,Food - Condiments,4.29
+764,Ole,Food - Dairy,3.29
+765,Alf,Food - Canned Goods,5.79
+766,Ric,Kitchen,39.99
+767,Gerek,Fitness,39.99
+768,Elsbeth,Pets,49.99
+769,Archer,Food - Frozen Foods,6.49
+770,Derwin,Audio,39.99
+771,Gerry,Food - Soups,3.89
+772,Otho,Food - Bakery,2.69
+773,Man,Kitchen,24.99
+774,Fons,Food - Produce,2.99
+775,Florinda,Food - Grains,3.49
+776,Deena,Garden,24.99
+777,Leighton,Garden,59.99
+778,Gualterio,Food - Salads,4.29
+779,Ahmed,Food - Seafood,6.49
+780,Tabby,Outdoor,159.99
+781,Zedekiah,Food - Condiments,3.29
+782,Vivi,Kitchen,49.99
+783,Richardo,Food - Bakery,3.29
+784,Daffy,Food - Baking,4.29
+785,Wells,Kitchen,34.99
+786,Devlin,Pets,10.99
+787,Cully,Food - Breakfast,4.49
+788,Dulcie,Food - Frozen Meals,5.99
+789,Cameron,Clothing - Accessories,29.99
+790,Benny,Food - Condiments,3.29
+791,Berkly,Food - Snacks,3.99
+792,Rhoda,Food - Beverages,3.49
+793,Antony,Food - Meat,12.99
+794,Delphinia,Audio,79.99
+795,Kerri,Pets,18.99
+796,Nonna,Food - Frozen Foods,4.29
+797,Glyn,Outdoor,39.99
+798,Emmy,Food - Oils & Vinegars,6.49
+799,Belita,Home,59.99
+800,Agneta,Food - Snacks,3.99
+801,York,Food - Beverages,1.99
+802,Fabiano,Garden,22.99
+803,Conchita,Outdoor,29.99
+804,Chloette,Accessories,24.99
+805,Weider,Food - Snacks,3.59
+806,Nelle,Clothing - Shirts,44.99
+807,Starlene,Food - Meat Substitutes,5.99
+808,Debby,Food - Baking Goods,1.89
+809,Aldous,Food - Frozen Foods,4.99
+810,Thurstan,Food - Grains,1.49
+811,Dorree,Food - Canned Goods,4.5
+812,Rockie,Garden,34.99
+813,Kurt,Smart Home,149.99
+814,Jeremy,Home,45
+815,Rockwell,Food - Baking,5.49
+816,Diane,Food - Household,8.99
+817,Eberhard,Food - Beverages,3.49
+818,Randie,Food - Condiments,3.49
+819,Miriam,Toys,49.99
+820,Piper,Toys,22.99
+821,Stanwood,Food - Condiments,4.29
+822,Alie,Food - Sauces,2.49
+823,Candi,Kitchen,59.99
+824,Dinny,Kitchen,24.99
+825,Finlay,Food - Salads,4.99
+826,Giselle,Food - Frozen Foods,1.99
+827,Milty,Bicycles,34.99
+828,Olly,Food - Prepared Meals,5.99
+829,Ode,Food,29.99
+830,Casandra,Food - Desserts,2.29
+831,Leonelle,Kitchen,39.99
+832,Denver,Food - Produce,6.99
+833,Corine,Food - Breakfast,4.99
+834,Othelia,Food - Snacks,2.99
+835,Rodrique,Clothing - Skirts,39.99
+836,Davide,Home Security,299.99
+837,Bianca,Fitness,39.99
+838,Carmela,Garden,29.99
+839,Erastus,Electronics,99.99
+840,Natalee,Clothing - Dresses,39.99
+841,Mycah,Accessories,24.99
+842,Zaccaria,Kitchen,9.99
+843,Billie,Food - Canned Goods,2.99
+844,Pattin,Footwear,89.99
+845,Rubin,Outdoor,49.99
+846,Ryon,Kitchen,89.99
+847,Zora,Food - Produce,4.49
+848,Nadiya,Food - Frozen Foods,2.99
+849,Krishnah,Outdoor,14.99
+850,Lilllie,Food - Prepared Foods,4.99
+851,Ricard,Music,199.99
+852,Romonda,Food - Produce,2.99
+853,Kandy,Crafts,22.99
+854,Waldon,Pets,15.99
+855,Kirsteni,Home,29.99
+856,Judah,Clothing - Accessories,24.99
+857,Siffre,Food - Prepared Meals,1.29
+858,Viki,Home,35
+859,Andee,Kitchen,59.99
+860,Fae,Food - Baking,1.99
+861,Allina,Food - Condiments,3.99
+862,Helsa,Food - Snacks,3.29
+863,Paulie,Food - Frozen Foods,6.99
+864,Violet,Office,29.99
+865,Wenda,Fitness,12.99
+866,Darbee,Food - Snacks,3.29
+867,Rina,Home,39.99
+868,Francoise,Home,22.99
+869,Em,Food - Sides,2.99
+870,Meredith,Office,14.99
+871,Kaye,Fitness,34.99
+872,Zachery,Food - Snacks,3.29
+873,Lodovico,Electronics,299.99
+874,Kerrill,Food - Baking,5.99
+875,Gal,Food - Cereal,4.29
+876,Keriann,Kitchen,89.99
+877,Nicholle,Food - Produce,2.79
+878,Cristiano,Health,49.99
+879,Cori,Food - Canned Goods,4.5
+880,Jourdan,Home,15.99
+881,Dalli,Kitchen,34.99
+882,Sheba,Accessories,24.99
+883,Maxine,Beauty,22.99
+884,Harli,Music,39.99
+885,Johann,Accessories,19.99
+886,Anderson,Kitchen,18.99
+887,Ryon,Food - Bakery,4.99
+888,Daphna,Pets,39.99
+889,Philip,Food - Frozen Foods,5.99
+890,Aggy,Pets,29.99
+891,Barnebas,Clothing - Outerwear,44.99
+892,Rosemary,Food - Snacks,3.99
+893,Juditha,Home,59.99
+894,Milka,Food - Salads,4.99
+895,Moselle,Food - Pasta,4.99
+896,Adolph,Kitchen,19.99
+897,Sharon,Food - Beverages,2.99
+898,Marney,Food - Condiments,3.29
+899,Roana,Food - Snacks,4.29
+900,Chrissy,Storage,15.99
+901,Lewiss,Travel,29.99
+902,Far,Food - Condiments,3.99
+903,Vasilis,Garden,49.99
+904,Rosemary,Kitchen,24.99
+905,Sergent,Food - Snacks,2.79
+906,Emery,Kitchen,39.99
+907,Wendye,Food - Condiments,3.99
+908,Elaina,Food - Dairy,1.99
+909,Gilly,Clothing - Footwear,49.99
+910,Elfrida,Food - Breakfast,2.89
+911,Lezlie,Kitchen,22.99
+912,Jemmie,Food - Dairy,2.99
+913,Nance,Health,14.99
+914,Krystyna,Food - Soups,4.99
+915,Sal,Food - Frozen Fruits,4.89
+916,Krissie,Home,19.99
+917,Matelda,Home,19.99
+918,Joan,Health,14.99
+919,Eimile,Food - Frozen Foods,7.99
+920,Riannon,Food - Frozen Fruits,4.89
+921,Tracey,Food - Sides,3.99
+922,Lucien,Office,39.99
+923,Erny,Kitchen,34.99
+924,Gloriane,Toys,14.99
+925,Bonny,Food - Bakery,4.19
+926,Bob,Food - Meat & Poultry,5.99
+927,Arvie,Kitchen,18.99
+928,Kelbee,Kitchen,14.99
+929,Junette,Kitchen,24.99
+930,Ema,Food - Beverages,3.99
+931,Leann,Food - Spices,2.79
+932,Wash,Kitchen,19.99
+933,Maddalena,Kitchen,79.99
+934,Waylon,Food - Condiments,3.79
+935,Angelita,Music,39.99
+936,Davina,Food - Meat,3.99
+937,Devlen,Outdoor,49.99
+938,Barri,Food - Frozen Vegetables,5.49
+939,Bettina,Food - Sauces,2.59
+940,Lorette,Clothing - Accessories,29.99
+941,Lind,Fitness,25.99
+942,Alyse,Garden,22.99
+943,Christabella,Outdoor,24.99
+944,Leda,Kitchen,24.99
+945,Gabi,Fitness,25.99
+946,Kare,Gaming,199.99
+947,Jereme,Home,12.99
+948,Carce,Food - Condiments,4.29
+949,Chlo,Fitness,15.99
+950,Denny,Food - Vegetarian,5.49
+951,Delano,Food - Frozen Vegetables,5.99
+952,Iris,Beauty,99.99
+953,Finlay,Food - Vegetables,3.99
+954,Caz,Kitchen,49.99
+955,Natalee,Food - Frozen Foods,5.99
+956,Ario,Food - Soups,2.99
+957,Morty,Food - Frozen Meals,5.99
+958,Francyne,Food - Frozen Foods,5.99
+959,Melva,Art Supplies,79.99
+960,Bennie,Food - Snacks,3.99
+961,Orella,Kitchen,49.99
+962,Josefina,Food - Produce,4.29
+963,Bartlet,Kitchen,19.99
+964,Nedda,Home,39.99
+965,Knox,Food - Produce,3.49
+966,Maureen,Food - Frozen Foods,4.99
+967,Egbert,Kitchen,89
+968,Eilis,Kitchen,29.99
+969,Gonzalo,Electronics,29.99
+970,Joelynn,Food - Vegetables,4.49
+971,Donica,Food - Snacks,3.29
+972,Gardie,Food - Sauces,2.49
+973,Thaddus,Food - Breakfast,1.99
+974,Noble,Food - Grains,2.99
+975,Vanya,Food - Snacks,6.99
+976,Aurilia,Clothing - Accessories,25.99
+977,Cheslie,Accessories,49.99
+978,Trueman,Food - Snacks,4.59
+979,Holden,Food - Baking,1.99
+980,Ninnette,Food - Condiments,3.29
+981,Georgiana,Kitchen,89.99
+982,Fraser,Clothing - Swimwear,29.99
+983,Selestina,Outdoor,9.99
+984,Joey,Food - Snacks,4.29
+985,Hyman,Outdoor,129.99
+986,Luis,Electronics,19.99
+987,Randene,Food - Baking,6.49
+988,Linda,Art Supplies,19.99
+989,Mal,Toys,19.99
+990,Tatum,Electronics,169.99
+991,Pris,Food - Dairy,1.99
+992,Vanny,Food - Snacks,2.29
+993,Dian,Fitness,49.99
+994,Uri,Clothing - Bottoms,79.99
+995,Bree,Bathroom,39.99
+996,Jerrie,Food - Baking Goods,1.79
+997,Cloe,Accessories,24.99
+998,Dallas,Music,359.99
+999,Adriana,Kitchen,49.99
+1000,Coraline,Food - Marinades,3.79
